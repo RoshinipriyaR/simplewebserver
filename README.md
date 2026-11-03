@@ -136,7 +136,7 @@ webpage
 ![alt text](image.png)
 
 serverpage
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 
 
