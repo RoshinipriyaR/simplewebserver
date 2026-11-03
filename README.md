@@ -44,6 +44,7 @@ content = """
      <title>Details of Laptop</title>
   </head>
 <body>
+<p>Roshinipriya(26010199)
 
 <table border="4" cellspacing="5" cellpadding="20">
 <caption>Laptop Device Information</caption>
@@ -124,13 +125,18 @@ httpd = HTTPServer(server_address,myhandler)
 print("my own webserver is running successfully...")
 httpd.serve_forever()
 
+```
+
+
+
 
 
 ## OUTPUT:
 webpage
-c:\Users\acer\Pictures\Screenshots\Screenshot 2026-11-03 095029.png
+![alt text](image.png)
+
 serverpage
-c:\Users\acer\Pictures\Screenshots\Screenshot (24).png
+![alt text](image-2.png)
 
 
 

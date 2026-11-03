@@ -5,6 +5,7 @@ content = """
      <title>Details of Laptop</title>
   </head>
 <body>
+<p>Roshinipriya(26010199)
 
 <table border="4" cellspacing="5" cellpadding="20">
 <caption>Laptop Device Information</caption>
