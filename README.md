@@ -128,9 +128,10 @@ httpd.serve_forever()
 
 ## OUTPUT:
 webpage
-![alt text](image.png)
+c:\Users\acer\Pictures\Screenshots\Screenshot 2026-11-03 095029.png
 serverpage
-![alt text](image-1.png)
+c:\Users\acer\Pictures\Screenshots\Screenshot (24).png
+
 
 
 ## RESULT:
